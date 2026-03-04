@@ -1,0 +1,26 @@
+🏗️ Apa itu HTML?
+HTML (HyperText Markup Language) bukanlah bahasa pemrograman untuk logika (seperti matematika), melainkan bahasa markup untuk menyusun bagian-bagian di halaman web.
+
+Bayangkan sebuah rumah:
+
+HTML: Struktur bangunannya (dinding, pintu, jendela).
+
+CSS: Cat dan dekorasinya (biar cantik).
+
+JavaScript: Listrik dan airnya (biar bisa interaktif).
+
+🦴 Struktur Dasar HTML
+Setiap file HTML punya susunan standar. Berikut adalah "kerangka" yang wajib ada:
+
+HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman Pertama Saya</title>
+</head>
+<body>
+    <h1>Halo, Dunia!</h1>
+    <p>Ini adalah paragraf pertama saya di belajar HTML.</p>
+</body>
+</html>
+
